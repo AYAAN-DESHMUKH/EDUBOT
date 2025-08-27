@@ -1,1 +1,2 @@
 Paste this link when running build_file.sh in the gitbash-https://huggingface.co/bartowski/Llama-3.2-3B-Instruct-GGUF/resolve/main/Llama-3.2-3B-Instruct-Q4_K_M.gguf
+But before that download docker desktop-https://www.docker.com/products/docker-desktop/
